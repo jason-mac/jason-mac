@@ -3,7 +3,7 @@ Hey! My name is Jason and I'm a computer engineering student at UBC, looking to 
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonvanmac/)
-[![Personal Website](https://img.shields.io/badge/PERSONAL_WEBSITE-9e7bd1?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jasonvanmac.com/)
+[![Personal Website](https://img.shields.io/badge/MY_WEBSITE-9e7bd1?style=for-the-badge&logo=About.me&logoColor=white)](https://jasonvanmac.com/)
 
 # Technologies:
 ### Languages
