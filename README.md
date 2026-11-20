@@ -14,4 +14,4 @@ Hey! My name is Jason and I'm a computer engineering student at UBC, currently a
 [![Frameworks](https://skillicons.dev/icons?i=pytorch,postgres)]()
 
 # Stats
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jason-mac&layout=normal&theme=dark&langs_count=10&exclude_repo=portfolio&cache_seconds=0&hide=html,astro,java,typescript,c%23)
+![Top Languages](./profile/top-langs.svg)
